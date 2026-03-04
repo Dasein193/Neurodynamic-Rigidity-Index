@@ -1,0 +1,6 @@
+MIT License
+Copyright (c) 2026 Hugo Evaristo Tapia Castañeda
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files for research and academic 
+purposes, provided that the original author is credited.
